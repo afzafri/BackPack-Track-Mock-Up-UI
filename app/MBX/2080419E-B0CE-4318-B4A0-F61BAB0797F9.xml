@@ -1,0 +1,65 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="2080419E-B0CE-4318-B4A0-F61BAB0797F9" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="8">
+    <control controlID="FA830D29-C540-43B6-A692-F6DAFCE0BACF" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="0"/>
+    <control controlID="361F5F49-228F-47B2-A536-847169E92012" controlTypeID="Image" x="83" y="78" w="194" h="194" zOrder="1">
+      <URL>8DC903855B9A64EF6E5F48639268D41A.png</URL>
+    </control>
+    <control controlID="FB2E8E9D-5CAB-4672-93A3-2962C7690E7F" controlTypeID="Top ActionBar" x="0" y="20" w="360" h="48" zOrder="2">
+      <color>4283164858</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Login%2FRegister</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <showBack>False</showBack>
+    </control>
+    <control controlID="FAA70269-A257-4A11-B5C2-0FCF00B01CE6" controlTypeID="TextField" x="10" y="326" w="330" h="39" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <showIcon>False</showIcon>
+      <placeHolder>enter+your+email+address</placeHolder>
+    </control>
+    <control controlID="CEF3110C-3506-4A0E-95EB-81A29705E8A5" controlTypeID="Label" x="10" y="307" w="32" h="19" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Email</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="302A9AE2-E97C-43A3-BF57-E0C556374C54" controlTypeID="TextField" x="10" y="400" w="330" h="39" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <showIcon>False</showIcon>
+      <placeHolder>enter+your+password</placeHolder>
+      <inputModel>emPassword</inputModel>
+    </control>
+    <control controlID="B54FBBA4-FC56-4344-AD42-4C534ED17423" controlTypeID="Label" x="10" y="381" w="57" h="19" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Password</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FFF6FCA4-D7B1-4671-8496-B39E632D1D57" controlTypeID="Button" x="115" y="462" w="120" h="48" zOrder="7">
+      <color>4293557799</color>
+      <borderColor>4283164858</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="30D6E5A0-8A80-48F4-964A-9CADA4BBB19A" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{4A1DF212-260C-4EA7-84B3-E643C61F640B}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Login+%2F+Register</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>2</thickness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

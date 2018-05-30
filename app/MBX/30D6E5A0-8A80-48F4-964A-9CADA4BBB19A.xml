@@ -1,0 +1,84 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="30D6E5A0-8A80-48F4-964A-9CADA4BBB19A" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="E1A7A608-4F90-436A-86E1-CDA2155E99B8" controlTypeID="Top ActionBar" x="0" y="20" w="360" h="48" zOrder="0">
+      <color>4283164858</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <showBack>False</showBack>
+    </control>
+    <control controlID="71253790-3998-4A93-89E7-2B7EBA57AF01" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="1"/>
+    <control controlID="A09E5171-6886-494E-BEB5-1387016684D6" controlTypeID="Tabs" x="0" y="592" w="360" h="48" zOrder="2">
+      <color>4283164858</color>
+      <borderColor>4283164858</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{112F4F1A-F29A-41DE-B453-08348E54D0F0}" coords="(0,0,119,48)"/>
+        </link>
+        <link targetPageID="EEBB5CD0-3A25-4456-A3BC-7578AF506AC6" linkType="ltPageLink" isApplyIncludePage="False" title="Notification">
+          <area shape="0" alt="" ID="{BD117D2B-469E-4734-9C7F-04A81843CB7F}" coords="(120,0,239,48)"/>
+        </link>
+        <link targetPageID="235F7397-A0A7-4745-A663-9F548D99972A" linkType="ltPageLink" isApplyIncludePage="False" title="Profile">
+          <area shape="0" alt="" ID="{E36D1CA9-FF6B-4EB1-B54F-0149F1415941}" coords="(240,0,359,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home%2CNotification%2CProfile</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>4293557799</selectedColor>
+      <dividerColor>4293557799</dividerColor>
+    </control>
+    <control controlID="50A88D85-AB8A-40A8-A021-7C8C471FFE2D" controlTypeID="TableView" x="0" y="101" w="360" h="491" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A8928151-4CA6-4C45-A3FA-F0D7BBACBDC2" linkType="ltPageLink" isApplyIncludePage="False" title="3+Days+2+Night+in+Korea+-+by+Tony+Stark">
+          <area shape="0" alt="" ID="{B7F938FE-2336-479B-AE74-2C900C181A2B}" coords="(1,1,359,37)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Trip+to+Pulau+Pinang+-+by+Camilla">
+          <area shape="0" alt="" ID="{523C2E10-AA87-414F-9305-1CE1EB037C78}" coords="(1,37,359,73)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Langkawi+Island+Hopping+Trip+-+by+Shawn">
+          <area shape="0" alt="" ID="{B348754C-184A-4281-8D46-ED7FF84181E1}" coords="(1,73,359,109)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Istanbul+Trip+-+by+Fazura">
+          <area shape="0" alt="" ID="{9F23A282-5584-4572-A8F2-C589E30559B9}" coords="(1,109,359,145)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Trip+to+Russia+-+by+Kellin">
+          <area shape="0" alt="" ID="{691D81BC-DF7D-4549-9AB8-683652B703CC}" coords="(1,145,359,181)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Indonesia+5D1N+-+by+Janna">
+          <area shape="0" alt="" ID="{23AFDCF9-5B07-4E0A-B5D2-877C3D6AD83F}" coords="(1,181,359,217)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>3+Days+2+Night+in+Korea+-+by+Tony+Stark%0D%0ATrip+to+Pulau+Pinang+-+by+Camilla%0D%0ALangkawi+Island+Hopping+Trip+-+by+Shawn%0D%0AIstanbul+Trip+-+by+Fazura%0D%0ATrip+to+Russia+-+by+Kellin%0D%0AIndonesia+5D1N+-+by+Janna</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedColor>4293557799</selectedColor>
+    </control>
+    <control controlID="05D7EA8E-9087-4B8E-9FCB-0C055C26AEE4" controlTypeID="Label" x="5" y="72" w="122" h="19" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Trip+Itineraries+List</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsUnderline]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="33B3E186-8678-42B7-BE6C-E2FF1AB19DA2" controlTypeID="Image" x="284" y="516" w="66" h="66" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F284CCE0-1174-48AA-B947-1F3B6E95851A" linkType="ltPageLink" isApplyIncludePage="False" title="Create+Itinerary">
+          <area shape="0" alt="" ID="{96F70142-8A55-4898-AD40-0D75B89E7148}" coords="(0,0,66,66)"/>
+        </link>
+      </links>
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>7F4D7BBA21CA9747CA57A7944FC5DD3C.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

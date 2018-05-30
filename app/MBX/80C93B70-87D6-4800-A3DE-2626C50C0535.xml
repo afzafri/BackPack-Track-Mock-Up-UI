@@ -1,0 +1,84 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="80C93B70-87D6-4800-A3DE-2626C50C0535" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="9">
+    <control controlID="0B2CA2C8-0F2A-49FA-A17A-4B52906E0380" controlTypeID="Image" x="8" y="466" w="171" h="171" zOrder="0">
+      <URL>6C4EC4A14182338DCEC6A9FD4B2D353D.jpg</URL>
+    </control>
+    <control controlID="70CB41D7-EFBC-400D-9C06-27CD9341F24C" controlTypeID="Top ActionBar" x="0" y="20" w="360" h="48" zOrder="1">
+      <color>4283164858</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="30D6E5A0-8A80-48F4-964A-9CADA4BBB19A" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{6D04C4E8-8AA4-40E4-B300-CEF4B770208B}" coords="(2,4,42,44)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{F01AC8C0-9C58-4502-A490-644D680509B9}" coords="(313,4,353,44)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>3+Days+2+Night+in+Korea</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="C81B35C5-D56E-42A0-9420-3675FAAF890A" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="2"/>
+    <control controlID="15622EC8-7D1B-4934-BF3C-FCD0B23A7D0E" controlTypeID="Tabs" x="0" y="68" w="360" h="35" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A8928151-4CA6-4C45-A3FA-F0D7BBACBDC2" linkType="ltPageLink" isApplyIncludePage="False" title="Day+1">
+          <area shape="0" alt="" ID="{428BFE33-8235-498F-8EDF-339FEA99CE37}" coords="(0,0,59,35)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Day+2">
+          <area shape="0" alt="" ID="{3370F40B-2CD1-4F70-A6BE-795C1A2B952E}" coords="(60,0,119,35)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Day+3">
+          <area shape="0" alt="" ID="{D776C963-372E-405A-82B2-F742F53E95DA}" coords="(120,0,179,35)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Photos">
+          <area shape="0" alt="" ID="{54F03C02-5321-431E-BB40-2180DF5D578A}" coords="(180,0,239,35)"/>
+        </link>
+        <link targetPageID="7498A609-0CB5-422C-BA6F-820370E4198C" linkType="ltPageLink" isApplyIncludePage="False" title="+Budget">
+          <area shape="0" alt="" ID="{4BA54CEA-433D-4EA9-96D2-507915B7BEA8}" coords="(240,0,299,35)"/>
+        </link>
+        <link targetPageID="DA2482EA-32F0-4325-ABCC-EAF5E116C0AA" linkType="ltPageLink" isApplyIncludePage="False" title="+Comments">
+          <area shape="0" alt="" ID="{2E91F64E-11D5-4E5B-B4F6-7EFEB1AAE749}" coords="(300,0,359,35)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Day+1%2C+Day+2%2C+Day+3%2C+Photos%2C+Budget%2C+Comments</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>3</selectedIndex>
+      <selectedColor>4293557799</selectedColor>
+    </control>
+    <control controlID="7C2442E2-6830-4967-AC0F-3957A3A27A4C" controlTypeID="Image" x="10" y="108" w="169" h="169" zOrder="4">
+      <URL>CF7B07914D2638C3B4EC131FBFA426EF.jpg</URL>
+    </control>
+    <control controlID="BE24023D-C44C-40BA-BE00-C8A36BE5291A" controlTypeID="Image" x="10" y="287" w="169" h="169" zOrder="5">
+      <URL>EF19126BD41C3FF99BD82169CAEAAF36.jpg</URL>
+    </control>
+    <control controlID="C7BE3504-F315-44D4-B138-B4EFC7B5B1E0" controlTypeID="TextArea" x="189" y="159" w="161" h="73" zOrder="6">
+      <borderColor>4293557799</borderColor>
+      <borderVisible>True</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sight+seeing+in+Yeouido+Park%2C+Seoul</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C600CABC-E949-497A-8287-E9CAEBF9285B" controlTypeID="TextArea" x="190" y="336" w="161" h="73" zOrder="7">
+      <borderColor>4293557799</borderColor>
+      <borderVisible>True</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sight+seeing+in+Gamcheon+Culture+Village%2C+Busan%2C+Korea</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="186F48C0-76C8-4EB4-9E6E-2A6E401D881C" controlTypeID="TextArea" x="190" y="510" w="161" h="73" zOrder="8">
+      <borderColor>4293557799</borderColor>
+      <borderVisible>True</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Shopping+in+Myeongdong%2C+Seoul</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

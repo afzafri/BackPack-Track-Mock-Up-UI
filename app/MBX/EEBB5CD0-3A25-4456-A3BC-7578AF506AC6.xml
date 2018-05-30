@@ -1,0 +1,49 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="EEBB5CD0-3A25-4456-A3BC-7578AF506AC6" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="4">
+    <control controlID="83ACC21E-A0FD-4988-B72F-672FBD631D19" controlTypeID="Top ActionBar" x="0" y="20" w="360" h="48" zOrder="0">
+      <color>4283164858</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Notification</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <showBack>False</showBack>
+    </control>
+    <control controlID="F4D63086-4394-4CF6-A5DB-B3B57A2B3B5D" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="1"/>
+    <control controlID="4BDA30C0-35A3-4BED-9D23-E735D49CC79D" controlTypeID="Tabs" x="0" y="592" w="360" h="48" zOrder="2">
+      <color>4283164858</color>
+      <borderColor>4283164858</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="30D6E5A0-8A80-48F4-964A-9CADA4BBB19A" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{A362F81B-3598-40EC-B747-B4004F3704A3}" coords="(0,0,119,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Notification">
+          <area shape="0" alt="" ID="{160B1037-8808-4188-998E-4438AA10E934}" coords="(120,0,239,48)"/>
+        </link>
+        <link targetPageID="235F7397-A0A7-4745-A663-9F548D99972A" linkType="ltPageLink" isApplyIncludePage="False" title="Profile">
+          <area shape="0" alt="" ID="{4F13FE5B-8E2B-4499-991D-FC9E09811889}" coords="(240,0,359,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home%2CNotification%2CProfile</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>1</selectedIndex>
+      <selectedColor>4293557799</selectedColor>
+      <dividerColor>4293557799</dividerColor>
+    </control>
+    <control controlID="253D4C7E-2303-4FDD-BD6C-1DFA5890DEEE" controlTypeID="TableView" x="0" y="68" w="360" h="524" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Aaron+Aziz+commented+on+your+%223+Days+2+Night+in+Korea%22+itinerary%0D%0AFattah+Amin+posted+new+Trip+Itinerary+%22Korea+with+wife%22+%0D%0ARuhainies+replied+to+your+comment%0D%0ACamilla+posted+new+Trip+Itinerary+%22Penang+Island%22</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <selectedColor>4293557799</selectedColor>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

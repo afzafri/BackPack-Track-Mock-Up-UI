@@ -1,0 +1,60 @@
+﻿<project version="2.9" name="Mock-up Mobile" ID="161CB86C-5118-4D78-A6AF-0AF7F481C8FB">
+  <params>
+    <pageParam version="5.2" minAllowVersion="5.2"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Login Register" ID="2080419E-B0CE-4318-B4A0-F61BAB0797F9" expanded="False" code="iWX3hJnwy6" thumbCode="UJmraFUdHf" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8DC903855B9A64EF6E5F48639268D41A.png"/>
+      </images>
+    </page>
+    <page name="Home" ID="30D6E5A0-8A80-48F4-964A-9CADA4BBB19A" expanded="True" code="B5aOjAqbKj" thumbCode="B5aOjAqbKj" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7F4D7BBA21CA9747CA57A7944FC5DD3C.png"/>
+      </images>
+      <page name="Create Itinerary" ID="F284CCE0-1174-48AA-B947-1F3B6E95851A" expanded="True" code="n69261nBqr" thumbCode="Y2gEWux8xb" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="View Itinerary" ID="A8928151-4CA6-4C45-A3FA-F0D7BBACBDC2" expanded="True" code="sf833paKP7" thumbCode="sf833paKP7" status="psWhite" isfolder="False" isshownode="True">
+        <page name="Photos" ID="80C93B70-87D6-4800-A3DE-2626C50C0535" expanded="True" code="NjE897CEz5" thumbCode="NjE897CEz5" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CF7B07914D2638C3B4EC131FBFA426EF.jpg"/>
+            <image key="EF19126BD41C3FF99BD82169CAEAAF36.jpg"/>
+            <image key="6C4EC4A14182338DCEC6A9FD4B2D353D.jpg"/>
+          </images>
+        </page>
+        <page name="Budget" ID="7498A609-0CB5-422C-BA6F-820370E4198C" expanded="True" code="M4xjF5S83c" thumbCode="M4xjF5S83c" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="Comments" ID="DA2482EA-32F0-4325-ABCC-EAF5E116C0AA" expanded="True" code="2DW79gZyfU" thumbCode="9LKQD2885G" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CAF3C0A4800F63399BF032B6C16F4D69.jpg"/>
+            <image key="A502CC0AC1FF765E567D6D6BCF9DD43B.jpg"/>
+            <image key="71B3842141051DB2A35767DA64FE48B9.jpg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="Notification" ID="EEBB5CD0-3A25-4456-A3BC-7578AF506AC6" expanded="True" code="l4vlKaEoIA" thumbCode="4rZ3DCND9N" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Profile" ID="235F7397-A0A7-4745-A663-9F548D99972A" expanded="True" code="bpWbjF4EWE" thumbCode="wY8AcwO97o" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="16ADFADE159C74E2107C03A9C0B6906F.jpg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page" ID="25F2A31A-2F8C-4BF6-846E-49A155DCB3DD" expanded="False" code="OAGnBEUTgW" thumbCode="1UkKXSoxiI" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="CF7B07914D2638C3B4EC131FBFA426EF.jpg"/>
+    <image key="16ADFADE159C74E2107C03A9C0B6906F.jpg"/>
+    <image key="EF19126BD41C3FF99BD82169CAEAAF36.jpg"/>
+    <image key="6C4EC4A14182338DCEC6A9FD4B2D353D.jpg"/>
+    <image key="CAF3C0A4800F63399BF032B6C16F4D69.jpg"/>
+    <image key="8DC903855B9A64EF6E5F48639268D41A.png"/>
+    <image key="71B3842141051DB2A35767DA64FE48B9.jpg"/>
+    <image key="7F4D7BBA21CA9747CA57A7944FC5DD3C.png"/>
+    <image key="A502CC0AC1FF765E567D6D6BCF9DD43B.jpg"/>
+  </images>
+</project>

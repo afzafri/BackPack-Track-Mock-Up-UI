@@ -1,0 +1,87 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="235F7397-A0A7-4745-A663-9F548D99972A" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="10">
+    <control controlID="21E6BD6F-99C7-4510-917F-93B4BDC96BC1" controlTypeID="Top ActionBar" x="0" y="20" w="360" h="48" zOrder="0">
+      <color>4283164858</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Profile</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <showBack>False</showBack>
+    </control>
+    <control controlID="E57D8956-1963-4E90-BB8B-21B9B622F998" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="1"/>
+    <control controlID="DF2C9E5E-0B5B-4036-8470-D761957A39BA" controlTypeID="Tabs" x="0" y="592" w="360" h="48" zOrder="2">
+      <color>4283164858</color>
+      <borderColor>4283164858</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="30D6E5A0-8A80-48F4-964A-9CADA4BBB19A" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{B0CCCB58-C89C-4C17-A555-AC878CDEAEF5}" coords="(0,0,119,48)"/>
+        </link>
+        <link targetPageID="EEBB5CD0-3A25-4456-A3BC-7578AF506AC6" linkType="ltPageLink" isApplyIncludePage="False" title="Notification">
+          <area shape="0" alt="" ID="{7915968A-3962-4B5B-B1F6-5BB76BFD1BCA}" coords="(120,0,239,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Profile">
+          <area shape="0" alt="" ID="{B2F28DF5-9BC1-49C4-ABF9-EA575B537292}" coords="(240,0,359,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home%2CNotification%2CProfile</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>2</selectedIndex>
+      <selectedColor>4293557799</selectedColor>
+      <dividerColor>4293557799</dividerColor>
+    </control>
+    <control controlID="727A43DF-6A42-40EB-8764-496493C625A8" controlTypeID="Image" x="96" y="92" w="169" h="169" zOrder="3">
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>16ADFADE159C74E2107C03A9C0B6906F.jpg</URL>
+    </control>
+    <control controlID="BED0C22A-5AB6-4471-998D-BE05DDD5BE00" controlTypeID="TextArea" x="41" y="334" w="280" h="74" zOrder="4">
+      <borderColor>4293557799</borderColor>
+      <borderVisible>True</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>I+love+to+travel+to+anywhere%2C+anytime.+Travel+is+my+passion.+42+years+old+and+still+going+strong.</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C56CC0D0-34D6-4F76-8A21-E38128331336" controlTypeID="Label" x="140" y="271" w="81" h="24" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Tony+Stark</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="681785F0-E59F-4208-8D39-D2164B385536" controlTypeID="Button" x="275" y="78" w="74" h="29" zOrder="6">
+      <borderColor>4293557799</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Edit+Profile</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8395EA0D-BF1B-48F8-932F-40A540BEBCF9" controlTypeID="TableView" x="0" y="418" w="360" h="174" zOrder="7">
+      <borderColor>4293557799</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>View+Posted+Itineraries%0D%0AView+Comments%0D%0ABudget+Expenditure%0D%0ASettings</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BB37C1FA-5658-483A-80F1-28DA6B22C6FA" controlTypeID="Label" x="39" y="305" w="125" h="19" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>tony@avengers.com</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="143D6F4B-9C03-4370-85AD-7A1EE2D809F3" controlTypeID="Label" x="174" y="305" w="147" h="19" zOrder="9">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>New+York%2C+United+States</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
